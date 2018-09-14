@@ -1,0 +1,71 @@
+{
+	"children": [
+		{
+			"title": "About Project",
+			"description": "Project Online can transform the way your company manage your core business and resources.",
+			"id": "pwa.general",
+			"children": []
+		},
+		{
+			"title": "KB",
+			"description": "Talk to me about any subject regarding to Project, I will try my best.",
+			"id": "pwa.kb",
+			"children": [
+				{
+					"title": "Tasks and Resources",
+					"description": "You can ask about the day by day procedures on tasks and resources.",
+					"id": "pwa.kb.tasks-and-resources",
+					"children": [
+						{
+							"title": "Tasks",
+							"description": "The Task is the entity which defines what to do, who does and when it gets done.",
+							"id": "pwa.kb.tasks-and-resources.tasks"
+						},
+						{
+							"title": "Resources",
+							"description": "Learn how to add and work with resource within your plan.",
+							"id": "pwa.kb.tasks-and-resources.resources"
+						}
+					]
+				},
+				{
+					"title": "Configuration",
+					"description": "A good project plan is a day by day work increment and reviewing, so let's configure.",
+					"id": "pwa.kb.config",
+					"children": [
+						{
+							"title": "Project",
+							"description": "Learn how to configure your project so Project Online can do the hard work.",
+							"id": "pwa.kb.config.project",
+							"children": []
+						},
+						{
+							"title": "Calendar",
+							"description": "Configure calendar exceptions and resource specific needs.",
+							"id": "pwa.kb.config.calendar",
+							"children": []
+						},
+						{
+							"title": "Outline",
+							"description": "Define your WBS or structure your Sprint directly on the Gantt.",
+							"id": "pwa.kb.config.outline",
+							"children": []
+						},
+						{
+							"title": "Planning",
+							"description": "Learn how to plan using Project Online tools.",
+							"id": "pwa.kb.config.planning",
+							"children": []
+						}
+					]
+				},
+				{
+					"title": "Reports",
+					"description": "Everything about your project including task reporting and resource utilization.",
+					"id": "pwa.kb.reports",
+					"children": []
+				}
+			]
+		}
+	]
+}

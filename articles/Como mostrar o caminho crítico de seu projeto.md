@@ -1,0 +1,2 @@
+# Mostrar o caminho crítico de seu projeto
+Todas as tarefas são importantes, mas somente algumas são críticas. O caminho crítico é uma cadeia de tarefas vinculadas que afeta diretamente a data de conclusão do projeto. Se alguma tarefa no caminho crítico estiver atrasada, todo o projeto estará atrasado.

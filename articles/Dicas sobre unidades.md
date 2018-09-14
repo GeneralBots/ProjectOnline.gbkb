@@ -1,0 +1,9 @@
+# Dicas sobre unidades
+Project, unidades refere-se à parte de tempo de um recurso que está disponível para trabalhar em um projeto. Por exemplo, se Audrey geralmente funciona uma semana de 40 horas e seu valor de unidades é definido como 50%, ela será ser agendada para 20 horas de trabalho por semana. Se ela funciona normalmente um cronograma de meio expediente de 30 horas por semana, com unidades definidas em 50%, ela poderia ser agendada para 15 horas por semana.
+
+|           Dica                |           Observações                                         |
+|-------------------------------|---------------------------------------------------------------|
+|Porcentagem e decimais valores ambas as funcionar.|Você pode inserir unidades máximas como uma porcentagem (por exemplo, 50%, 100% ou 300%) ou como um número decimal (por exemplo, 0.5, 1 ou 3).|
+|Somente insira uma data de início para disponibilidade aberta.|Você pode especificar uma data no campo **Disponível até** em qualquer modo de exibição que tenha uma tabela sem especificar uma data na coluna **Disponível de**.|
+|Use porcentagens abaixo de 100 para trabalhar meio expediente.|Para tornar um recurso de meio expediente em seu projeto, defina uma porcentagem menor que 100. Por exemplo, se o recurso trabalharão meia-dias durante esse período, digite **50%**.|
+|Multiplica unidades para os recursos são equipes de pessoas.|Para definir as unidades de um grupo de recursos, verifique se que a porcentagem representa todas as pessoas do grupo.    Por exemplo, se você tiver uma equipe com três pessoas tempo integral definido como um recurso em seu projeto, defina o valor de unidades para **300%** (100% por pessoa) para que o trabalho agendado a conta para esses três pessoas lidar com tudo o que eles estão atribuídos.|

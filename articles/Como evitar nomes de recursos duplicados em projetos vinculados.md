@@ -1,0 +1,4 @@
+# Evitando nomes de recursos duplicados em projetos vinculados
+Se você vincular projetos que têm recursos com o mesmo nome, você vai criar nomes de recursos duplicados, o que podem ser confusos. Para evitar isso, desmarque a caixa **Vincular ao projeto** na caixa de diálogo **Inserir projeto** . Isso garante que as informações do recurso no projeto mestre (como taxas de pagamento, calendários de recursos) serão cumpridas sobre as informações de recurso do subprojeto.
+
+> **Observação**: Quando você atualiza um subprojeto não vinculado a partir do projeto mestre, o arquivo do subprojeto original não exibirá essa alteração.
